@@ -18,17 +18,20 @@ CTRF is accepted paper in 27th International Conference on Pattern Recognition (
 
 ### project structure
 
-CTRF_RRPR24
-|
-|->CTRF
-	|
-	|-> *All python files*
-	|-> Output
-	|	  |-> *All pickle files*	
-	|-> Training Files
-	|	  |-> *All training files csv*
-        |-> sample_images
-                  |->  Accuracy, logical,bank_folds_train,bank_folds_predict(all are in the *pngs*.)
+CTRF_RRPR24/
+│
+├── CTRF/
+│   ├── *All python files*
+│   ├── Output/
+│   │   └── *All pickle files*
+│   ├── Training Files/
+│   │   └── *All training files csv*
+│   └── sample_images/
+│       └── Accuracy.png
+│       └── logical.png
+│       └── bank_folds_train.png
+│       └── bank_folds_predict.png
+
 
 ### Quick Install
 
