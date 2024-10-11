@@ -79,7 +79,7 @@ You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful r
 ## sample for predictions for banks.csv
 
 <div align="center">
-  <img width="40%" alt="" src="sample_images/bank_folds_predict.png" >
+  <img width="40%" alt="" src="CTRF/sample_images/bank_folds_predict.png" >
 </div>
 
 ## Usage
@@ -89,13 +89,13 @@ These datasets are split into 80% training and 20% testing. You can use them to 
 ### Comparing accuracy of RF, RF-V, BDS an OBDS on UCIML datasets.
 
 <div align="center">
-  <img width="40%" alt="" src="media/Accuracy.png" >
+  <img width="40%" alt="" src="CTRF/sample_images/Accuracy.png" >
 </div>
 
 ### Comparing AND an OR operations on UCIML datasets.
 
 <div align="center">
-  <img width="40%" alt="" src="media/Logical.png" >
+  <img width="40%" alt="" src="CTRF/sample_images/Logical.png" >
 </div>
 
 ### Related papers
