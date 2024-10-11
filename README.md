@@ -93,13 +93,13 @@ These datasets are split into 80% training and 20% testing. You can use them to 
 ### Comparing accuracy of RF, RF-V, BDS an OBDS on UCIML datasets.
 
 <div align="center">
-  <img width="40%" alt="" src="CTRF/sample_images/Accuracy.png" >
+  <img width="60%" alt="" src="CTRF/sample_images/Accuracy.png" >
 </div>
 
 ### Comparing AND an OR operations on UCIML datasets.
 
 <div align="center">
-  <img width="40%" alt="" src="CTRF/sample_images/Logical.png" >
+  <img width="60%" alt="" src="CTRF/sample_images/Logical.png" >
 </div>
 
 ### Related papers
