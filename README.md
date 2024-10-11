@@ -73,7 +73,7 @@ You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful r
   ## After training for bank .csv
 
 <div align="center">
-  <img width="40%" alt="" src="sample_images/bank_folds_train.png" >
+  <img width="40%" alt="" src="CTRF/sample_images/bank_folds_train.png" >
 </div>
 
 ## sample for predictions for banks.csv
