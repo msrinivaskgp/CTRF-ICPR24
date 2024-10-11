@@ -30,8 +30,6 @@ CTRF_RRPR24
         |-> sample_images
                   |->  Accuracy, logical,bank_folds_train,bank_folds_predict(all are in the *pngs*.)
 
-        
-
 ### Quick Install
 
         *  pip install  https://github.com/msrinivaskgp/CTRF_RRPR24
