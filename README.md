@@ -16,8 +16,9 @@ CTRF is accepted paper in 27th International Conference on Pattern Recognition (
 6. pyeda + related his VS distribution file (https://www.microsoft.com/en-us/download/details.aspx?id=30679)
 7. gmm_mml
 
-### project structure
+## Project Directory Structure
 
+<pre>
 CTRF_RRPR24/
 │
 ├── CTRF/
@@ -31,6 +32,8 @@ CTRF_RRPR24/
 │       └── logical.png
 │       └── bank_folds_train.png
 │       └── bank_folds_predict.png
+</pre>
+
 
 
 ### Quick Install
