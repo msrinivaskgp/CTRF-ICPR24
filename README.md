@@ -13,7 +13,7 @@ CTRF is accepted paper in 27th International Conference on Pattern Recognition (
 3. pandas
 4. scikit-learn
 5. scipy
-6. pyeda + related his VS distribution file (https://www.microsoft.com/en-us/download/details.aspx?id=30679)
+6. pyeda + related this VS distribution file (https://www.microsoft.com/en-us/download/details.aspx?id=30679)
 7. gmm_mml
 
 ## Project Directory Structure
@@ -133,7 +133,7 @@ email: msrinivas@iitkgp.ac.in
 email: saihemanth.s@outlook.com
 
 
-<a href="https://www.linkedin.com/in/raviteja-garlapati-147a71172/">RaviTeja Garlapati </a> 
+<a href="https://www.linkedin.com/in/raviteja-garlapati-147a71172/">Raviteja Garlapati </a> 
 <br>Scarlet Moose Entertainment</br>
 email: garlapatiravitejag.grr@outlook.com
 
