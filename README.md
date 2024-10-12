@@ -72,6 +72,10 @@ You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful r
 | glass        | 171              | 43           | 6       |
 | zoo          | 81               | 20           | 7       |
 
+## Usage
+
+These datasets are split into 80% training and 20% testing. You can use them to evaluate and benchmark machine learning models.
+
 ### sample output 
 
   ## training outputs for bank.csv
@@ -85,10 +89,6 @@ You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful r
 <div align="center">
   <img width="40%" alt="" src="CTRF/sample_images/bank_folds_predict.png" >
 </div>
-
-## Usage
-
-These datasets are split into 80% training and 20% testing. You can use them to evaluate and benchmark machine learning models.
 
 ### Comparing accuracy of RF, RF-V, BDS an OBDS on UCIML datasets.
 
