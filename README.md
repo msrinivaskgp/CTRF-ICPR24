@@ -46,7 +46,7 @@ CTRF_RRPR24/
 ```bash
 git clone  https://github.com/msrinivaskgp/CTRF_RRPR24
 cd CTRF_RRPR24
-#under the directory of CTRF_RRPR24 we can train and predict the info
+#under the directory of CTRF_RRPR24 we can train and predict the models
 ```
 
 You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful running predictf()
@@ -74,7 +74,7 @@ You will see info about the accuracies of  RF, RF-V,BDS, OBDS after successful r
 
 ## Usage
 
-These datasets are split into 80% training and 20% testing. You can use them to evaluate and benchmark machine learning models.
+These datasets are split into 80% training and 20% testing. You can use them to evaluate and benchmark the proposed models.
 
 ### sample output 
 
