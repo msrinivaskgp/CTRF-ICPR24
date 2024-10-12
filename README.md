@@ -108,9 +108,6 @@ of random forests. arXiv preprint arXiv:2007.01493. 2020 Jul 3. [pdf](https://ar
 
 * Audemard, Gilles, Frédéric Koriche, and Pierre Marquis. On tractable XAI queries based on compiled representations. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning. Vol. 17. No. 1. 2020. [pdf](https://proceedings.kr.org/2020/86/kr2020-0086-audemard-et-al.pdf)
 
-
-##Contact
-
 **Principal Investigator**
 
 
