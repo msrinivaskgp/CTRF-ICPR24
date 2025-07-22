@@ -101,7 +101,7 @@ def info_gain(wine_list1):
 
                 prR[c][i][j] = (countR[c][i][j]+eps)/(right_count[i][j])
 
-                WL[i][j] = (right_count[i][j])/(P)
+                WR[i][j] = (right_count[i][j])/(P)
 
                 Entropy_right[i][j] -= prR[c][i][j]*np.log2(prR[c][i][j])
 
