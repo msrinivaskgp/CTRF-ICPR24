@@ -126,11 +126,11 @@ email: msrinivas@iitkgp.ac.in
 
 
 <a href="https://www.linkedin.com/in/sai-hemanth-sattenapalli-3874b010b//">Sattenapalli Sai hemanth </a> 
-<br>Scarlet Moose Entertainment</br>
+<br>Galatic Geeks</br>
 email: saihemanth.s@outlook.com
 
 
 <a href="https://www.linkedin.com/in/raviteja-garlapati-147a71172/">Raviteja Garlapati </a> 
-<br>Scarlet Moose Entertainment</br>
+<br>Galatic Geeks</br>
 email: garlapatiravitejag.grr@outlook.com
 
